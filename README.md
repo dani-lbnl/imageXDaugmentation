@@ -42,9 +42,10 @@ changes in illumination,
 http://warmspringwinds.github.io/gsoc/2015/07/24/google-summer-of-code-creating-training-set/
 - blog from winning Plankton classification challenge
 http://benanne.github.io/2015/03/17/plankton.html
-- documentation w/ illustrated pictures, e.g. why/how could I use radial symmetry? 
+- documentation w/ illustrated pictures, e.g. why/how could I use radial symmetry?
 http://jwilson.coe.uga.edu/EMT668/EMAT6680.2002.Fall/Nazarewicz/7210_final_2/7210_Project/
+
 2) Story-telling
-User enter images that are all the same size, not necessary squared + (new_filename,class,orig_filename)
-User define a set of image transformations
-Output contains new set of images + csv (new_filename,class,orig_filename) + log (what was used during transformation)
+- User enter images that are all the same size, not necessary squared + (new_filename,class,orig_filename)
+- User define a set of image transformations
+- Output contains new set of images + csv (new_filename,class,orig_filename) + log (what was used during transformation)
